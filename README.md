@@ -1,5 +1,7 @@
 # PRE_ENTREGA3_JPARRA
 
+El proyecto a revisar es el llamado CODER_PRO3.rar
+
 Buen dia. Mi proyecto se trata de una pagina de Bicis. Cuenta con tres models que son : BICICLETAS, ACCESORIOS Y ROPA CICLISMO.
 Cada formulario creado me permite ingresar al inventario la referencia o nombre de la bicicleta, su marca o fabricante y el valor de venta.
 Para el caso de los accesorios se ingresa su nombre o descripcion y su valor.
